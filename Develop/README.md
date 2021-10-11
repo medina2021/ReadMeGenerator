@@ -3,9 +3,10 @@
 
 ## Description
 
-App generates a readme file
+App generates a readme file using node.js command line
 
 ## Table of Contents 
+* [Links to Demo](#Links)
 
 * [Installation](#installation)
 
@@ -16,6 +17,11 @@ App generates a readme file
 * [Tests](#tests)
 
 * [Questions](#questions)
+
+##Links
+
+Live demo: 
+
 
 ## Installation
 
