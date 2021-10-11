@@ -1,16 +1,18 @@
-# ReadMe Generator
-
+# readme generator
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-App generates a readme file using node.js command line
+This app creates a README Generator.
 
 ## Table of Contents 
-* [Links to Demo](#Links)
+*[Links to Live Demo](#Links)
 
 * [Installation](#installation)
 
 * [Usage](#usage)
+
+* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -18,9 +20,11 @@ App generates a readme file using node.js command line
 
 * [Questions](#questions)
 
-##Links
+## Links  
 
-Live demo: 
+Google Drive: https://drive.google.com/file/d/1znM5Jch0BJAaDZc3wAbDcj6z3mB1aw78/view
+
+Youtube: https://www.youtube.com/watch?v=Lm-La09L2Qg
 
 
 ## Installation
@@ -33,13 +37,15 @@ npm i
 
 ## Usage
 
-It is simple to use!
+it is simple to use!
 
-
+## License
+    
+  This project is licensed under the MIT license.
 
 ## Contributing
 
-Feel free to contribute.
+Feel free to contribute
 
 ## Tests
 
